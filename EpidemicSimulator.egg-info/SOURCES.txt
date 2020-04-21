@@ -1,8 +1,9 @@
 README.md
 setup.py
 Epidemic/__init__.py
-Epidemic/test.py
+Epidemic/simple_dynamics.py
 EpidemicSimulator.egg-info/PKG-INFO
 EpidemicSimulator.egg-info/SOURCES.txt
 EpidemicSimulator.egg-info/dependency_links.txt
 EpidemicSimulator.egg-info/top_level.txt
+test/test_simple_seir.py
