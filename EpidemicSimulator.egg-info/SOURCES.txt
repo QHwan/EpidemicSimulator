@@ -1,0 +1,8 @@
+README.md
+setup.py
+Epidemic/__init__.py
+Epidemic/test.py
+EpidemicSimulator.egg-info/PKG-INFO
+EpidemicSimulator.egg-info/SOURCES.txt
+EpidemicSimulator.egg-info/dependency_links.txt
+EpidemicSimulator.egg-info/top_level.txt
